@@ -1,20 +1,21 @@
 # Interactive-IdCard-Generator
 
-Frontend - HTML,CSS,JAVASCRIPT
-Backend - PHP, MYSQL
+`Frontend - HTML,CSS,JAVASCRIPT`
 
-` “Personal ID Card Generator” our automated system the total process of card generation is done with the help this webpage rather than manually.
+`Backend - PHP, MYSQL `
+
+ “Personal ID Card Generator” our automated system the total process of card generation is done with the help this webpage rather than manually.
 Moreover this process is highly compatible with data storing and manipulating and At the same time the user can download their ID Card at an instant. `
 
 
 
-![image](https://user-images.githubusercontent.com/72887609/143718537-97242baf-1390-4000-a567-fc15b1f260b9.png)
+<img width="528" alt="image" src="https://user-images.githubusercontent.com/72887609/143718684-eb11f5a2-0248-4194-afa8-83312e266dad.png">
 
 
-![image](https://user-images.githubusercontent.com/72887609/143718410-f48e1070-fb6d-49e2-928c-6f9c41c385a3.png)
+<img width="603" alt="image" src="https://user-images.githubusercontent.com/72887609/143718821-77911bd9-a68d-49e1-be66-612815015c37.png">
 
+<img width="931" alt="image" src="https://user-images.githubusercontent.com/72887609/143718827-717438e4-cf8a-452f-a419-57f0e7a80bf1.png">
 
-![image](https://user-images.githubusercontent.com/72887609/143718412-7fca7d4c-a7bf-475e-abb4-a921173c9dd0.png)
 
 
 `DATABASE:`
