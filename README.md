@@ -14,8 +14,6 @@ Moreover this process is highly compatible with data storing and manipulating an
 
 
 
-
-
 https://user-images.githubusercontent.com/72887609/143719567-ac2a1575-6643-488a-bba7-aa27f7a3c20c.mp4
 
 
