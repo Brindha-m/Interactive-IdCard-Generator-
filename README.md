@@ -1,4 +1,4 @@
-# Interactive-IdCard-Generator
+# Interactive- Dynamic IdCard-Generator
 
 `Frontend - HTML,CSS,JAVASCRIPT`
 
