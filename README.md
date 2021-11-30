@@ -4,7 +4,7 @@
 
 `Backend - PHP, MYSQL `
 
- “Personal ID Card Generator” our automated system the total process of card generation is done with the help this webpage rather than manually.
+ “Personal ID Card Generator” automated system the total process of card generation is done with the help this webpage rather than manually.
 Moreover this process is highly compatible with data storing and manipulating and At the same time the user can download their ID Card at an instant. `
 
 
